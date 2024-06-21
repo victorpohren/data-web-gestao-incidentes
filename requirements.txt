@@ -1,0 +1,12 @@
+boto3==1.17.110
+botocore==1.20.110
+numpy
+pandas==1.5.3
+pyodbc==4.0.30
+requests==2.25.1
+tqdm==4.61.2
+urllib3==1.26.13
+dash==2.7.1
+dash_bootstrap_components==1.2.1
+plotly==5.9.0
+dash-auth==1.4.1
